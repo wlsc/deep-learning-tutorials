@@ -8,13 +8,13 @@ It aims to give accessible information to everyone accumulated in one place.
 
 ## Overview
 
-* MOOCs
+* [MOOCs](#moocs)
 
-* Video lectures
+* [Video lectures](#video-lectures)
 
-* Books
+* [Books](#books)
 
-* Paper readings
+* [Paper readings](#paper-readings)
 
 ## MOOCs
 
