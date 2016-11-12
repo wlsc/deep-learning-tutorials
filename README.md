@@ -48,6 +48,10 @@ It explores deep learning by bringing together the most up-to-date research from
 
 ## Video lectures
 
+* [Deep Learning: An Introduction by Breandan Considine](https://www.youtube.com/watch?v=RouuW2APMqM) (2016, Devoxx Belgium)
+
+A beautiful introduction lecture into Machine Learning and Deepl Learning itself as well as Tensorflow framework examples!
+
 * [Bay Area Deep Learning School. Day 1](https://www.youtube.com/watch?v=eyovmAtoUx0) (2016, Stanford)
 
 Must see DL leactures. Speakers: Hugo Larochelle, Andrej Karpathy, Richard Socher, Sherry Moore, Ruslan Salakhutdinov and Andrew Ng.
